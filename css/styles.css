@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background-color:#ABC9FF;
+}
+.name{
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.data
+{
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.init
+{
+
+    border: solid 5px;
+}
+.first
+{
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+    border:solid 10px;
+    /* margin-left: 208px; */
+
+}
+.second
+{
+    background-color: wheat;
+    height: 200px;
+    width: 200px;
+    border: solid 5px;
+    /* margin-left: 425px; */
+}
+div{
+    background-color:aliceblue;
+}
